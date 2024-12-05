@@ -15,7 +15,7 @@ Add a simple, elegant, falling snow effect to any section on your website. Happy
    Add this script tag in the `<head>` or before the closing `<body>` tag:
 
    ```html
-   <script src="https://raw.githubusercontent.com/Peak-Media-Development/falling-snow/refs/heads/main/script.js"></script>
+   <script src="https://peak-media-development.github.io/falling-snow/script.js" defer></script>
 
 2. Add the `falling-snow` class to the section or div where you want the effect to appear:
 

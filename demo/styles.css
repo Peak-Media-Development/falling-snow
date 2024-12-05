@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.falling-snow {
+    background-color: #000;
+    width: 100%;
+    height: 900px;
+    padding-top: 96px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 36px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin: 12px;
+}
