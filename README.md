@@ -28,7 +28,7 @@ Add a simple, elegant, falling snow effect to any section on your website. Happy
     </div>
 
 
-## Available Options
+## Available options
 
 | Attribute            | Default value | Description                              |
 |----------------------|---------------|------------------------------------------|
