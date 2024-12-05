@@ -2,6 +2,9 @@
 
 Add a simple, elegant, falling snow effect to any section on your website. Happy Holidays!
 
+[View a demo](https://peak-media-development.github.io/falling-snow/demo/demo.html)
+
+
 ## Features
 
 - Easy to use: Just add a class to any section of your website.
