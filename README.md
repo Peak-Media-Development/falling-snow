@@ -1,4 +1,4 @@
-# Falling Snow Effect
+# Falling snow effect
 
 Add a simple, elegant, falling snow effect to any section on your website. Happy Holidays!
 
