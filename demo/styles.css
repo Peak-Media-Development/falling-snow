@@ -3,10 +3,13 @@
 }
 
 .falling-snow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-color: #000;
     width: 100%;
-    height: 900px;
-    padding-top: 96px;
+    height: 100vh;
 }
 
 h1 {
